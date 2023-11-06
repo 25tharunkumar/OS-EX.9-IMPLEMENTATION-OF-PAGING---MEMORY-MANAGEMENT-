@@ -1,9 +1,10 @@
 # OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-
 
-AIM:
+## AIM:
+
 To write a C program to implement Page Replacement technique using FIFO.
 
-ALGORITHM:
+## ALGORITHM:
 
 Start the program.
 
@@ -25,7 +26,7 @@ Print the number of page faults.
 
 Stop the program.
 
-PROGRAM:
+## PROGRAM:
 ```
 #include<stdio.h>
 int main()
@@ -64,11 +65,11 @@ return 0;
 }
 ```
 
-OUTPUT:
+## OUTPUT:
 
 ![image](https://github.com/25tharunkumar/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/123470785/377dfad9-5f99-4808-b7ae-3f030766236d)
 
 
-RESULT:
+## RESULT:
 
 Thus the implementation of FIFO page replacement is successfully executed.
